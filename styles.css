@@ -56,9 +56,15 @@ button.operator {
     background-color: #fb7c14;
 }
 
+#btnClear, #btnMod{
+    background-color: #8c8783;
+    color: #0a0a0a;
+}
+
 #expandBtn {
-    padding-right:4.5rem ;
-    padding-left: 4.5rem;
+    text-align: left;
+    padding-right: 7.8rem ;
+    padding-left: 20px;
     border-radius: 28px;
 
 }
